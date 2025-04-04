@@ -1,3 +1,4 @@
 {
-"namespace": "ivan"
+"namespace": "ivan",
+"filenews": "kolivan"
 }
